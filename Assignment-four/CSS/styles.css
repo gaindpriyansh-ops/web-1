@@ -1,0 +1,67 @@
+body {
+    background-color: #92cdf2;
+}
+
+p {
+    font-size: 1.5em;
+    
+}
+
+.type1 {
+    font-weight: 900;
+    letter-spacing: 4px;
+    text-align: center;
+    line-height: 2;
+    font-family: "Savate", sans-serif;
+    
+}
+
+.type2 {
+    font-weight: 650;
+    letter-spacing: 9px;
+    font-family: "Exo", sans-serif;
+}
+
+.type3 {
+    font-weight: 900;
+     letter-spacing: 2px;
+    line-height: 5;
+    font-family: "Inter", sans-serif;
+}
+
+.type4 {
+    font-weight: 400;
+     letter-spacing: 1px;
+    font-size: 3em;
+    font-family: "Bitcount Grid Single", system-ui;
+}
+
+.type5 {
+     letter-spacing: 1px;
+    font-family: "Oswald", sans-serif;
+}
+
+.type6 {
+    font-weight: 149;
+     letter-spacing: -1px;
+    font-family: "Caprasimo", serif;
+}
+
+.type7 {
+     letter-spacing: 1px;
+    font-family: "Quicksand", sans-serif;
+}
+
+.type8 {
+     letter-spacing: 9px;
+    font-family: "Badeen Display", system-ui;
+}
+
+.type9 {
+    font-family: "Pacifico", cursive;
+}
+
+.type10 {
+    text-align: center;
+    font-family: "Caprasimo", serif;
+}
