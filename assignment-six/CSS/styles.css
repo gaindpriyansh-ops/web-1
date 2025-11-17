@@ -1,0 +1,85 @@
+.outer-box {
+    background-color: yellow;
+    width: 600px;
+    height: 900px;
+    padding: 1px;
+}
+
+.i-box-1 {
+    background-color: green;
+    width: 500px;
+    height: 170px;
+    margin: 20px auto;
+
+}
+
+.i-box-1-1 {
+    background-color: aqua;
+    width: 150px;
+    height: 150px;
+    margin: 10px 10px;
+    float: left;
+}
+.i-box-1-2 {
+    background-color: beige;
+    width: 150px;
+    height: 150px;
+    float: right;
+    margin: 10px 10px;
+    
+}
+
+.i-box-2 {
+    background-color: cadetblue;
+    width: 500px;
+    height: 330px;
+    margin: 20px auto;
+}
+
+.i-box-2-1 {
+    background-color: white;
+    height: 150px;
+    width: 150px;
+    margin: 10px 10px;
+    float: left;
+}
+
+.i-box-2-2 {
+    background-color: chocolate;
+    width: 150px;
+    height: 150px;
+    float: right;
+    margin: 10px 10px;
+}
+
+.i-box-2-3 {
+    background-color: orange;
+    width: 480px;
+    height: 150px;
+    margin: 10px 10px;
+    clear:both;
+    
+    
+}
+
+.i-box-3 {
+    background-color: chocolate;
+    height: 300px;
+    width: 500px;
+    margin: 20px auto;
+    padding: 1px;
+}
+
+.i-box-3-1 {
+    background-color: pink;
+    width: 150px;
+    height: 150px;
+    margin: 10px 10px;
+    float: left;
+}
+
+p {
+    color: white;
+    font-size: 16px;
+    margin: 10px;
+}
